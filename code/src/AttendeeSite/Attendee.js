@@ -1,6 +1,6 @@
 function attendeeName() {
   document.getElementById("Name").innerHTML = "Enter Name.";
-  ,
+,
 "follow-redirects": {
   "version": "1.14.1",
   "resolved": "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.14.1.tgz",
